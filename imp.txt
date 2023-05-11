@@ -1,0 +1,25 @@
+1) download react in node module form npm install react 
+then we dont neet cdn link for react now we have react in our nodu modules 
+2) download parcel from npm npm install -D parcel (D:dev DEPENDECIES) (HMR : HOT MODULE REplacement)
+FILE WACHER ALGORITHM(C++) TO SEE WHAT WE ARE CHANGING THEN IT TELL THE SERVER  TO LAAD ON LIVE SERVER 
+3) set the server on entry point of your html file like    npx parcel index1.html (creat parcel cache)
+it will creat the server for you 
+
+DIST:aLL THE PRODUCTION BUILD
+parcel: ITS IS THE BLUNDER ,MINIFY EVERYTHING ,CELEANING THE CODE,HMR,DEV AND PRODUCTION BUILD,SUPER FAST BUILD
+ ALGO,IMAGE OPTIMIZATION, CACHING WHILE DEVELOPMENT,COMRESSION AS WELL,COMPATIBLE WITH OLDER VERSION OF BROWSER
+ HTTPS ON DEVELOPMENT ( npx parcel index1.html --HTTPS)
+ port number 
+ WE HAVE TO  PUT PARCEL-CACHE ON GIGIGNORE (anything which we can generate on server put into gitignore)
+ consistent hashing ALGO
+ zero config
+PARCEL-CACHE:
+
+
+MOST HEAVEST THING WHEN BROWSER LOAD : MEDIA ,IMAGES
+
+
+TRANSITIVE DEPENDECIES
+
+
+browserslist
